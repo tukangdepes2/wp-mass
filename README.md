@@ -1,5 +1,3 @@
-# wp-mass
-mass wordpress sites
 # Wordpress Mass Login
 **There is two option, first mass using default u/p and mass using custom u/p.**
 
