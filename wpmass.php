@@ -1,5 +1,5 @@
 <?php
-//ups jangan di recode ya wkwk
+//ups jangan di recode ya wkw
 
 
 //Encode by : Unknown45
